@@ -12,6 +12,9 @@ const tailwindColors = Object.fromEntries(
   ]),
 );
 
+// Add tint alias for primary (used in tab bar)
+tailwindColors.tint = tailwindColors.primary;
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   darkMode: "class",
