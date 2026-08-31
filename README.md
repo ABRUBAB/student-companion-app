@@ -29,7 +29,7 @@ A comprehensive mobile application designed for university students to manage th
 - **Credit-Based Calculation** - Accurate GPA computation based on course credits
 
 ### 🤖 AI Chat Assistant
-- **Gemini AI Integration** - Powered by Google's advanced language model
+- **Gemini AI Integration** - Powered by Google's most advanced model
 - **Context-Aware Responses** - AI understands your tasks, grades, and goals
 - **Real-Time Messaging** - Instant responses to academic and career questions
 - **Typing Indicators** - Visual feedback during AI processing
