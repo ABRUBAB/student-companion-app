@@ -22,7 +22,7 @@ A comprehensive mobile application designed for university students to manage th
 - **Quick Add Modal** - Rapidly add new tasks with essential details
 
 ### 📊 GPA Calculator & Planning
-- **SGPA & CGPA Tracking** - Real-time calculation of semester and cumulative GPA
+- **SGPA & CGPA Tracking** - Real-time calculation of semester SGPA and cumulative CGPA
 - **Grade Management** - Add, edit, and track grades across multiple semesters
 - **Future GPA Planner** - Set target CGPA and calculate required grades
 - **Grade Distribution Insights** - Visual breakdown of academic performance
